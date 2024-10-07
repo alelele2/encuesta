@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Pagina web</title>
+	<style>
+	body{
+	font-family: Arial, sans-serif; /Letra general/
+	font-size: 18px; /Tamaño de letra/
+	}
+
+	input[type="text"]{
+		border: 2px solid #F81717; /Color de borde/
+		border-radius: 5px; /Bordes redondos/
+		padding: 10px; /Espacio interno/
+		front-size: 16px; /Tamaño del texto/
+		width: 100%; /Ancho completo del contenedor/
+	}
+
+	label {
+		font-size: 18px; /Tamaño del texto en etiqueta/
+		font-weight: bold /Negrita para etiquetas/
+	}
+</style>
+
+</head>
+<body>
+	<h1>Hola</h1>
+	<h2>Bienvenido a página webh2>
+	<p>Visita <a href="https://es.surveymonkey.com/r/KY7XRBK"> este enlace</a> es para una encuesta de surveymonkey</p>
+</body>
+</html>
